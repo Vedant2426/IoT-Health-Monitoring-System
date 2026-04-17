@@ -1,0 +1,8 @@
+ESP32
+MAX30102 Sensor
+DHT11 Sensor
+16x2 LCD (I2C)
+Breadboard
+Jumper wires(m-m, m-f)
+USB Data Cable
+Blynk Platform
