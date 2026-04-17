@@ -58,13 +58,13 @@ Sensors collect health data → ESP32 processes the data → data is displayed o
    - LiquidCrystal_I2C  
 
 3. Replace the following in code:
-    YOUR_WIFI_NAME
-    YOUR_WIFI_PASSWORD
-    YOUR_BLYNK_AUTH_TOKEN
+   YOUR_WIFI_NAME,
+   YOUR_WIFI_PASSWORD,
+   YOUR_BLYNK_AUTH_TOKEN.
 
-4. Upload code to ESP32  
-5. Connect hardware as per circuit  
-6. Open Blynk app/dashboard  
+5. Upload code to ESP32  
+6. Connect hardware as per circuit  
+7. Open Blynk app/dashboard  
 
 ---
 
